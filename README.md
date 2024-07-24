@@ -5,9 +5,12 @@ Third-party API wrapper for [Stand with Crypto](https://www.standwithcrypto.org/
 ## Prerequisites
 Python 3.6+
 
-## Installation
-```
-pip3 install git+https://github.com/samuel-poon/standwithcrypto
+## Source
+https://github.com/samuel-poon/standwithcrypto
+
+## Installation 
+```bash
+pip3 install standwithcrypto
 ```
 
 ## Quick Start
