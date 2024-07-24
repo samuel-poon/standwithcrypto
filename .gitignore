@@ -1,0 +1,12 @@
+__pycache__
+
+venv/
+tests/
+
+.DS_Store
+.env
+
+test.py
+sandbox.py
+
+*.code-workspace
